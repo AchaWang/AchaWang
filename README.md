@@ -1,4 +1,9 @@
-### Hi there 👋
+### 🌱Hi there I'm AchaWang(Chia-Cheng,Wang)👋
+### 💬Can also call me Clark.
+### 😄A newbie programmer
+### 🔭Graduated from CSMU , interested in computer science
+### ⚡Contact Me : achawang211@gmail.com
+
 
 <!--
 **AchaWang/AchaWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
