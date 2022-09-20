@@ -1,8 +1,8 @@
 ### 🌱Hi there I'm AchaWang(Chia-Cheng,Wang)👋
-# 💬Can also call me Clark.
-# 😄A newbie programmer
-# 🔭Graduated from CSMU , interested in computer science
-# ⚡Contact Me : achawang211@gmail.com
+#### 💬Can also call me Clark.
+#### 😄A newbie programmer
+#### 🔭Graduated from CSMU , interested in computer science
+#### ⚡Contact Me : achawang211@gmail.com
 
 
 <!--
