@@ -13,8 +13,8 @@
   Linux servers · GitLab CI/CD · Podman · network infrastructure · internal tools
 
 ### 🚀 Projects
-- [**Gitty-Backup**](https://gitty-backup.achawang.com) — （一句話說明用途）
-- [**wifi-km**](https://github.com/AchaWang/wifi-km) — （一句話說明用途）
+- [**Gitty-Backup**](https://gitty-backup.achawang.com)
+- [**wifi-km**](https://github.com/AchaWang/wifi-km)
 
 ### 🛠 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
